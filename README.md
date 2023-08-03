@@ -1,5 +1,5 @@
 # Hi, I'm Hilman 👋
-<img src="readmebx.svg">
+<img src="readmebox.svg">
 
 <!--
 **hilman-aprdi/hilman-aprdi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
