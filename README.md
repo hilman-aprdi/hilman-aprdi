@@ -1,17 +1,25 @@
-# Hi, I'm Hilman 👋
 <img src="readmebox.svg">
 
-<!--
-**hilman-aprdi/hilman-aprdi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# `HILMAN.EXE`
 
-Here are some ideas to get you started:
+> **STATUS:** Operational  
+> **PURPOSE:** Still investigating.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Hi, I'm **Hilman Apriadi**, a curious human who happens to build things with code.
+
+I build digital tools, explore AI, and occasionally spend hours figuring out why something doesn't work.
+
+
+### `// KNOWN ISSUES`
+
+- Curiosity generates more questions than answers.
+- `TODO: understand everything.`
+- Some bugs are features. Investigation ongoing.
+
+### `// ESTABLISH CONNECTION`
+
+[Website](https://hmn.my.id) · [GitHub](https://github.com/hilman-aprdi) · [LinkedIn](https://www.linkedin.com/in/hilman-apriadi/) · [Instagram](https://www.instagram.com/mnaprd_/)
+
+---
+
+<sub>Built with curiosity, not a complete instruction manual.</sub>
