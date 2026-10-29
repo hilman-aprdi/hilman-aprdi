@@ -18,7 +18,7 @@ I build digital tools, explore AI, and occasionally spend hours figuring out why
 
 ### `// ESTABLISH CONNECTION`
 
-[Website](https://hmn.my.id) · [GitHub](https://github.com/hilman-aprdi) · [LinkedIn](https://www.linkedin.com/in/hilman-apriadi/) · [Instagram](https://www.instagram.com/mnaprd_/)
+[Website](https://hmn.my.id) · [LinkedIn](https://www.linkedin.com/in/hilman-apriadi/) · [Instagram](https://www.instagram.com/mnaprd_/)
 
 ---
 
